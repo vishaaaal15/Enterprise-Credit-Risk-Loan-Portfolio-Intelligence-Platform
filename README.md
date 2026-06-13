@@ -169,13 +169,3 @@ Enterprise-Credit-Risk-Loan-Portfolio-Intelligence-Platform/
 │   ├── Portfolio_Intelligence.png
 │
 └── README.md
-
----
-
-## Business Impact
-This platform enables banking stakeholders to monitor portfolio health, identify emerging credit risks, optimize lending strategies, and support proactive risk management through data-driven decision-making.
-
-## Author
-Vishal Singh
-Data Analytics | Banking Analytics | Risk Analytics | Business Intelligence
-GitHub: https://github.com/vishaaaal15
