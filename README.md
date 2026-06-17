@@ -100,6 +100,8 @@ The dataset consists of simulated retail banking lending data including:
 ---
 
 ## Dashboard Pages
+---
+
 ![Dashboard](Images/Credit_Risk_Analysis_and_Borrower_Segmentation.png)
 
 ---
