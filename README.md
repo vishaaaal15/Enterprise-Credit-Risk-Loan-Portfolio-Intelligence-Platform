@@ -98,14 +98,42 @@ The dataset consists of simulated retail banking lending data including:
 - Portfolio Growth Rate
 
 ---
+# Executive Credit Risk & Portfolio Overview Dashboard
 
-## Dashboard Pages
----
+![Executive Credit Risk & Portfolio Overview Dashboard](Images/Executive_Credit_Risk_Portfolio_Overview_Dashboard.png)
 
-![Dashboard](Images/Credit_Risk_Analysis_and_Borrower_Segmentation.png)
+## Dashboard Overview
 
----
+The Executive Credit Risk & Portfolio Overview Dashboard provides a centralized view of loan portfolio performance, credit risk exposure, and portfolio health metrics.
 
+Designed for executive stakeholders, the dashboard enables rapid assessment of lending performance, risk concentration, and borrower behavior through interactive KPI monitoring and visual analytics.
+
+### Key Metrics Monitored
+
+- Total Loan Portfolio Value
+- Outstanding Loan Balance
+- Active Loan Accounts
+- Portfolio Risk Distribution
+- Delinquency Rate
+- Default Indicators
+- Portfolio Health Metrics
+- Loan Category Performance
+
+### Business Value
+
+- Enables executive-level portfolio monitoring.
+- Improves visibility into credit risk exposure.
+- Supports proactive risk management.
+- Facilitates data-driven lending decisions.
+- Provides a consolidated view of portfolio health and performance.
+
+### Strategic Insights Delivered
+
+- Identification of high-risk portfolio segments.
+- Analysis of portfolio concentration trends.
+- Monitoring of borrower repayment behavior.
+- Detection of emerging delinquency patterns.
+- Assessment of overall portfolio stability.
 ### Executive Portfolio Overview
 
 - Total Portfolio Exposure
