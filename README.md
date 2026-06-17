@@ -175,7 +175,7 @@ Identifies borrower segments contributing most significantly to credit risk and 
 
 ## Regional Risk Intelligence & Exposure Monitoring
 
-![Regional Risk Intelligence & Exposure Monitoring](Images/Regional_Risk_Intelligence_Exposure_Monitoring.png)
+![Regional Risk Intelligence & Exposure Monitoring](Images/Regional_Risk_Intelligence_Monitoring.png)
 
 ### Dashboard Purpose
 
